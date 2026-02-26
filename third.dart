@@ -1,5 +1,5 @@
 void printName() {
-  String name = "Your Name"; // Replace "Your Name" with your actual name
+  String name = "Your Name";
   print("My name is $name");
 }
 
