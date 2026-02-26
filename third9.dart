@@ -12,6 +12,6 @@ double maxNumber(double a, double b, double c) {
 }
 
 void main() {
-  double largest = maxNumber(10, 25, 15); // Example usage
+  double largest = maxNumber(10, 25, 15); 
   print("The largest number is: $largest");
 }
