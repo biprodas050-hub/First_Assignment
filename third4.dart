@@ -14,7 +14,7 @@ String generatePassword(int length) {
 }
 
 void main() {
-  int passwordLength = 12; // You can change the length
+  int passwordLength = 12; 
   String password = generatePassword(passwordLength);
 
   print("Generated password: $password");
